@@ -61,4 +61,4 @@ _Predicted Entities:_
 ## 📊 Classification Report
 
 *(See image below)*  
-![Classification Report](./path/to/classification_report.png)
+![Classification Report](classification_report.png)
