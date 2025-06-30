@@ -60,5 +60,4 @@ _Predicted Entities:_
 
 ## 📊 Classification Report
 
-*(See image below)*  
 ![Classification Report](classification_report.png)
